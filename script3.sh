@@ -2,7 +2,7 @@
 
 git add ./
 
-git commit -m "commit message"
+git commit -m "$@"
 
 git push origin main
 
